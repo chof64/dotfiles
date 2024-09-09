@@ -1,0 +1,60 @@
+{
+  //* Editor
+  "editor.linkedEditing": true,
+
+  //* General
+
+  // Tab Size
+  "editor.tabSize": 2,
+  "editor.indentSize": "tabSize",
+
+  // General Formatter
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+
+  //* Language Overrides
+
+  // JavaScript
+  "javascript.autoClosingTags": true,
+
+  // TypeScript
+  "typescript.autoClosingTags": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+
+  // Prisma ORM
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+
+  //* Extensions
+
+  // Auto Close Tag
+  "auto-close-tag.activationOnLanguage": [
+    "Astro",
+    "astro",
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (EEx)",
+    "HTML (Eex)",
+    "plist"
+  ],
+
+  // MDX
+  "mdx.server.enable": true,
+}

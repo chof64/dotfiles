@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "wix.vscode-import-cost",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "mikestead.dotenv",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "unifiedjs.vscode-mdx",
+    "ms-azuretools.vscode-docker",
+    "prisma.prisma",
+    "bradlc.vscode-tailwindcss",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "aaron-bond.better-comments"
+  ]
+}
